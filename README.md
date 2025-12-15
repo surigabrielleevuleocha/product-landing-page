@@ -15,7 +15,7 @@ A responsive product landing page for a loafers brand built with HTML and CSS, s
 - Responsive Design
 
 ## Preview
-![Loafers Landing Page Screenshot](Screenshot(84).png)
+
 
 ## Author
 Gabrielle Chinonyerem Evuleocha
